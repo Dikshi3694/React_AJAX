@@ -37,8 +37,7 @@ export default class CurrencyCounter extends React.Component{
                     <button onClick={this.convert} className="btn btn-success">Convert!</button>
                 </span>
                 <span>
-                <h3>The converted value</h3>              
-                <h2>{this.state.converted}</h2>
+                <h2>The converted value {this.state.converted}</h2>
                 </span>               
                 
               </div> 

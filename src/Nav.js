@@ -22,7 +22,8 @@ export default () => {
                 <li><Link to="/faq">Faq</Link></li> 
                 <li><Link to="/box">Boxes</Link></li>     
                 <li><Link to="/random">Random</Link></li>
-                <li><Link to="/currency">CurrencyCounter</Link></li>         
+                <li><Link to="/currency">CurrencyCounter</Link></li>  
+                <li><Link to="/movies">Movies</Link></li>       
             </ul>
             </div>
          </div>
